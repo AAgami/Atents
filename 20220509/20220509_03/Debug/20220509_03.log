@@ -1,0 +1,8 @@
+﻿  study_datastructes.cpp
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int'입니다.
+c:\users\atents\onedrive\문서\github\atents\20220509\20220509_03\study_datastructes.cpp(27): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'int'입니다.
+  20220509_03.vcxproj -> C:\Users\Atents\OneDrive\문서\GitHub\Atents\20220509\Debug\20220509_03.exe
